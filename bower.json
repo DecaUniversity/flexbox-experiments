@@ -1,0 +1,14 @@
+{
+  "name": "flexbox",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "DecaHub"
+  ],
+  "license": "SEE LICENSE IN license.md",
+  "private": true,
+  "dependencies": {
+  },
+  "version": "1.0.0",
+  "author": "DecaHub"
+}
